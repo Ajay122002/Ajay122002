@@ -1,6 +1,6 @@
 [![MasterHead](https://programminghomeworktutors.com/images/about-us-banner.png)](https://ajay122002.io)
 <h1 align="center">Hi 👋, I'm Ajay Sai Velampalli</h1>
-<h3 align="center">A passionate Software developer from India.</h3>
+<h3 align="center">A passionate Software developer.</h3>
 <img align="right" alt="Code eat sleep!!!" width="450" src="https://miro.medium.com/max/800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay122002&label=Profile%20views&color=0e75b6&style=flat" alt="ajay122002" /> </p>
 
