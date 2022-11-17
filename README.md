@@ -33,5 +33,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay122002&show_icons=true&locale=en" alt="ajay122002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay122002&" alt="ajay122002" /></p>
+
+<a href='https://leetcode.com/co_der12/'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+<a href='https://www.codechef.com/users/co_der12'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
+<a href='https://auth.geeksforgeeks.org/user/co_der12/articles'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
+<a href='https://www.hackerrank.com/co_der12'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+<a href='https://github.com/ajay122002'></a>
+-->
+<!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a> -->
+<br>
+
+<h4 align="center">
+📊 My Github Stats 📊
+</h4>
+
+ <div align="center">
+<a href="http://www.github.com/ajay122002"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ajay122002&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/ajay122002"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay122002&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/ajay122002"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay122002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+</div>
+
 ![](https://leetcard.jacoblin.cool/co_der12?ext=heatmap) 
-<img src="https://raw.githubusercontent.com/ajay122002/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> 
+<img src="https://raw.githubusercontent.com/ajay122002/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
