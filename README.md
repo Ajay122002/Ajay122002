@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay122002&" alt="ajay122002" /></p>
 ![](https://leetcard.jacoblin.cool/co_der12?ext=heatmap) 
-<img src="https://raw.githubusercontent.com/Ajay122002/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> 
+<img src="https://raw.githubusercontent.com/ajay122002/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> 
