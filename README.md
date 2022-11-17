@@ -34,14 +34,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay122002&" alt="ajay122002" /></p>
 
-<a href='https://leetcode.com/co_der12/'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+<!-- <a href='https://leetcode.com/co_der12/'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 <a href='https://www.codechef.com/users/co_der12'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
 <a href='https://auth.geeksforgeeks.org/user/co_der12/articles'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
 <a href='https://www.hackerrank.com/co_der12'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
 <a href='https://github.com/ajay122002'></a>
 -->
-<!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a> -->
-<br>
 
 <h4 align="center">
 📊 My Github Stats 📊
